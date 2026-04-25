@@ -1,4 +1,4 @@
-import React, { useState, useRef } from 'react';
+import { useState, useRef } from 'react';
 import type { VerdictData } from '../hooks/useResignChat';
 import jsPDF from 'jspdf';
 
