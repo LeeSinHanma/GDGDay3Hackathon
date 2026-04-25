@@ -1,4 +1,3 @@
-import React from 'react';
 import { useResignChat } from './hooks/useResignChat';
 import { ChatInterface } from './components/ChatInterface';
 import { VerdictScreen } from './components/VerdictScreen';
